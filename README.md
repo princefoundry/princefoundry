@@ -1,35 +1,340 @@
-![logo](https://github.com/Linkin143/Linkin143/blob/main/BackgroundBanner.png)
-<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">A passionate MERN Stack developer & SDET Engineer.</h3>
-<img align="Right" width="400" src="https://camo.githubusercontent.com/ea4824240587d8d0d7fea6a17cca6eccc531abb1f5329d6971b07595c96e80fa/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966" alt="Coding..."> </img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=linkin143&label=Profile%20views&color=0e75b6&style=flat" alt="linkin143" /> </p>
+<!-- =========================================================
+     PRINCE KUMAR | PRINCE FOUNDRY
+     Senior Software Engineer | Founder @ AEVRIX
+     ========================================================= -->
 
-- 🔭 I’m currently working on [SpeedX](https://github.com/Linkin143/SpeedX)
+<!-- HERO SECTION -->
 
-- 🌱 I’m currently learning **Vite,React,API and full backend.**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Linkin143?tab=repositories](https://github.com/Linkin143?tab=repositories)
+  <img src="https://github.com/princefoundry/princefoundry/blob/main/BackgroundBanner.png"
+       alt="Prince Kumar - Prince Foundry"
+       width="100%" />
 
-- 💬 Ask me about **JS, React, Bootstrap and NodeJS and web technologies.**
+  <br/><br/>
 
-- 📫 How to reach me **kumarprince143p143@gmail.com**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=33CC99&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Prince+Kumar+%F0%9F%91%8B;Senior+Software+Engineer;Founder+%40+AEVRIX;Building+AI+Agents+%26+Intelligent+Automation;Turning+Ideas+Into+Working+Products"
+       alt="Typing introduction" />
 
-- 📄 Know about my experiences [https://prince-software-solution.w3spaces.com/](https://prince-software-solution.w3spaces.com/)
+  <h3>Senior Software Engineer · Founder · AI & Automation Builder</h3>
 
-- ⚡ Fun fact **I think I am very creative👨‍💻.**
+  <p>
+    <a href="https://aevrix.in/">
+      <img src="https://img.shields.io/badge/Founder-AEVRIX-111111?style=for-the-badge&logo=rocket&logoColor=33CC99" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=princefoundry&label=PROFILE+VIEWS&color=33CC99&style=for-the-badge" />
+  </p>
 
-<h3 align="left">Connect with me:</h3>
+  <h4>BUILD. &nbsp; EXPERIMENT. &nbsp; INNOVATE.</h4>
+
+  <p>
+    <a href="https://github.com/princefoundry">
+      <img src="https://img.shields.io/github/followers/princefoundry?label=Followers&style=social" />
+    </a>
+    <a href="https://github.com/princefoundry?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore-My%20Repositories-33CC99?style=flat-square" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+
+## 👨‍💻 About Me
+
+I'm **Prince Kumar**, a Senior Software Engineer, technology enthusiast, and entrepreneur passionate about building software, exploring emerging technologies, and turning ideas into practical solutions.
+
+My professional journey spans software engineering, quality engineering, test automation, full-stack development, and AI-powered applications.
+
+I'm particularly interested in the intersection of **Artificial Intelligence, Agentic Systems, Automation, and Product Engineering**.
+
+I enjoy building systems that don't just process information but can understand context, interact with applications, make decisions, and execute meaningful tasks.
+
+I'm also the Founder of **[AEVRIX](https://aevrix.in/)**, a technology and creative solutions company working across AI automation, custom AI agents, AI-powered products, web development, cinematic creative production, and digital growth.
+
+### ⚡ What I'm Focused On
+
+- 🤖 Building AI agents and multi-agent systems using LangChain and LangGraph.
+- 🧠 Exploring LLMs, Agentic AI, multimodal models, and intelligent workflows.
+- 🎮 Developing AI-powered gaming and desktop automation frameworks.
+- 🌐 Building full-stack applications and immersive web experiences.
+- 👁️ Exploring computer vision, OCR, VLMs, and intelligent UI understanding.
+- 🚀 Building AI-powered SaaS products and practical automation solutions.
+- 🧪 Engineering reliable software through automation and quality engineering.
+- ⚙️ Experimenting with AI coding agents, developer tools, and autonomous workflows.
+
+---
+
+<!-- CURRENT WORK -->
+
+## 🔭 What I'm Building & Exploring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Agentic Systems
+
+- Multi-agent architectures
+- LangGraph-based workflows
+- LLM-powered task execution
+- Intelligent browser automation
+- AI-powered communication workflows
+- Context-aware task automation
+- Autonomous AI assistants
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 AI Gaming Automation
+
+- Android gaming agents
+- PC game automation
+- Vision-based interaction
+- OCR and screen understanding
+- Game-specific agent skills
+- Automated gameplay testing
+- Multi-device automation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Software & Product Engineering
+
+- MERN stack applications
+- Next.js applications
+- REST API development
+- Backend architecture
+- Interactive 3D websites
+- AI-powered SaaS concepts
+- Scalable web applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Creative Technology – AEVRIX
+
+- AI-powered advertisements
+- Cinematic product creatives
+- UGC-style video production
+- Custom AI chatbots and agents
+- Digital experiences
+- Brand and performance marketing
+- Creative automation
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECHNOLOGY STACK -->
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
 <p align="left">
-<a href="https://twitter.com/linkinpark3110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linkinpark3110" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince-kumar-07759b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-kumar-07759b246" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+### Frontend & Backend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linkin143&show_icons=true&locale=en&layout=compact" alt="linkin143" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,mongodb,mysql,bootstrap,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linkin143&show_icons=true&locale=en" alt="linkin143" /></p>
+### AI, Automation & Intelligent Systems
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linkin143&" alt="linkin143" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv,azure,docker" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-AI%20Integration-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/PaddleOCR-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=flat-square" />
+  <img src="https://img.shields.io/badge/VLM-Multimodal%20AI-00A67E?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Autonomous%20Workflows-8A2BE2?style=flat-square" />
+</p>
+
+### Test Automation & Quality Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium,postman" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Appium-Mobile%20Automation-EE376D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?style=flat-square" />
+  <img src="https://img.shields.io/badge/JMeter-Performance%20Testing-D22128?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20API-Testing-2496ED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jira-Test%20Management-0052CC?style=flat-square&logo=jira&logoColor=white" />
+</p>
+
+### Development Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,azure,photoshop,figma" />
+</p>
+
+---
+
+<!-- ENGINEERING INTERESTS -->
+
+## 🧠 Areas of Interest
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-33CC99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Building-33CC99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Engineering-33CC99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Development-33CC99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Exploring-33CC99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product-Engineering-33CC99?style=for-the-badge" />
+</p>
+
+---
+
+<!-- FEATURED PROJECT AREAS -->
+
+## 🚀 Featured Areas of Engineering
+
+I enjoy working on projects that combine software engineering, AI, automation, and practical problem-solving.
+
+| Project Area | Description | Technologies |
+|:---|:---|:---|
+| AI Gaming Agent | Intelligent gameplay automation and decision-making | Python, Appium, LangGraph, OCR |
+| Multiplayer Game Automation | Multi-device game testing and automated interactions | Python, Appium, Android |
+| PC Gaming Agent | AI-driven desktop and game UI automation | Python, OpenCV, OCR, VLM |
+| AI Browser Automation | Intelligent browser interaction and task execution | AI Agents, LLMs, Browser Automation |
+| Full-Stack Applications | Modern web applications and backend systems | React, Next.js, Node.js, MongoDB |
+| AI Workflow Automation | Context-aware agents and automated workflows | LangChain, LangGraph, Azure AI |
+| Creative AI Applications | AI-assisted content and advertising production | Generative AI, Creative Tools |
+
+<p align="center">
+  <a href="https://github.com/princefoundry?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-33CC99?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<!-- COMPANY -->
+
+## 🏢 Building AEVRIX
+
+<div align="center">
+
+  <h1>AEVRIX</h1>
+
+  <h3>Automate Smarter. Scale Faster.</h3>
+
+  <p>
+    <b>Technology · Artificial Intelligence · Creative Innovation</b>
+  </p>
+
+  <a href="https://aevrix.in/">
+    <img src="https://img.shields.io/badge/Explore-AEVRIX-33CC99?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+
+</div>
+
+I'm the Founder of **AEVRIX**, a technology and creative solutions company focused on helping businesses build, automate, and grow through technology.
+
+At AEVRIX, we're bringing together software engineering, AI, automation, and creative production.
+
+### What We're Working On
+
+- 🤖 Custom AI agents, intelligent chatbots, and business automation.
+- 🧠 AI-powered SaaS products and intelligent digital platforms.
+- 🎬 Cinematic AI advertisements, UGC-style creatives, and product storytelling.
+- 🌐 Modern websites, full-stack applications, and immersive 3D experiences.
+- 📈 SEO, social media strategy, and performance marketing.
+- ⚡ Technology-driven solutions that help businesses work smarter.
+
+**Website:** https://aevrix.in/
+
+---
+
+<!-- GITHUB STATISTICS -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=princefoundry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princefoundry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+  <br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=princefoundry&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princefoundry&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+<!-- CONNECT WITH ME -->
+
+## 🌐 Let's Connect
+
+I'm always interested in connecting with software engineers, developers, founders, AI enthusiasts, and people building interesting things.
+
+<div align="center">
+
+  <a href="https://github.com/princefoundry">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/princefoundry">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/prince-kumar-07759b246/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://aevrix.in/">
+    <img src="https://img.shields.io/badge/AEVRIX-Website-33CC99?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
+
+  <a href="mailto:kumarprince143p143@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+  <h3>💡 Don't just use technology. Understand it, experiment with it, and build something meaningful.</h3>
+
+  <p>
+    <b>Thanks for visiting my profile!</b>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:33CC99&height=120&section=footer" width="100%" />
+
+</div>
